@@ -17,13 +17,19 @@
 
 ---
 
+### 👁️ Visitor Count
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=TheStrategicDev.TheStrategicDev" alt="Visitor Count" />
+
+---
+
 ### 🧰 Tech Stack
 
 **Languages & Frontend**  
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,solidjs,styledcomponents,css,jquery" />
 
 **Backend & Architecture**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,bun,fastify,php,laravel" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,bun,php,laravel" />
 
 **Database / ORM**  
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
@@ -43,12 +49,6 @@ Vitest • Jest • Supertest • Swagger • Postman • Figma • Slack • JI
   <img src="https://github-readme-stats.vercel.app/api?username=TheStrategicDev&show_icons=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheStrategicDev" />
 </p>
-
----
-
-### 👁️ Visitor Count
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=TheStrategicDev.TheStrategicDev" alt="Visitor Count" />
 
 ---
 
