@@ -9,7 +9,7 @@
 
 ---
 
-🚀 Passionate Full Stack Developer with over 7 years of experience  
+🚀 Passionate Full Stack Developer with over 8 years of experience  
 🔭 Currently working on microservices, event-driven architecture, and high-scale systems  
 📍 Based in Caloocan South, Philippines  
 🧠 INFJ - Creative, detail-oriented, and purpose-driven  
@@ -20,19 +20,16 @@
 ### 🧰 Tech Stack
 
 **Languages & Frontend**  
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,solidjs,unocss,styledcomponents,css,jquery" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,solidjs,styledcomponents,css,jquery" />
 
 **Backend & Architecture**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,bun,fastify,php,laravel" />  
-Microservices • Event-Driven • Clean Architecture • DDD • FSD
+<img src="https://skillicons.dev/icons?i=nodejs,express,bun,fastify,php,laravel" />
 
 **Database / ORM**  
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />  
-Prisma • Drizzle • Sequelize
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
 
 **Infra / DevOps**  
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,bitbucket,nginx" />  
-PM2 • WSL2 • DigitalOcean • Cloudflare • Minio • Apache
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,bitbucket,nginx" />
 
 **Testing / Tools**  
 Vitest • Jest • Supertest • Swagger • Postman • Figma • Slack • JIRA
@@ -49,9 +46,17 @@ Vitest • Jest • Supertest • Swagger • Postman • Figma • Slack • JI
 
 ---
 
+### 👁️ Visitor Count
+
+<p align="center">
+  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=TheStrategicDev.TheStrategicDev)
+</p>
+
+---
+
 ### 🤝 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-link"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://fb.com/your-link"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/solomonmaicolee/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/TheStrategicDev/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="40" /></a>
 </p>
