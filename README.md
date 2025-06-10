@@ -48,9 +48,7 @@ Vitest • Jest • Supertest • Swagger • Postman • Figma • Slack • JI
 
 ### 👁️ Visitor Count
 
-<p align="center">
-  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=TheStrategicDev.TheStrategicDev)
-</p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=TheStrategicDev.TheStrategicDev" alt="Visitor Count" />
 
 ---
 
