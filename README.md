@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Solomon Lee</h1>
+<h3 align="center">Senior Full Stack Js Developer | Philippines</h3>
 
-<!--
-**TheStrategicDev/TheStrategicDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://solomonlee.dev">🌐 Portfolio</a> •
+  <a href="https://github.com/TheStrategicDev">💻 GitHub</a> •
+  📫 solomonlee.dev@gmail.com • 📞 +63 961 697 2255
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Passionate Full Stack Developer with over 7 years of experience  
+🔭 Currently working on microservices, event-driven architecture, and high-scale systems  
+📍 Based in Caloocan South, Philippines  
+🧠 INFJ - Creative, detail-oriented, and purpose-driven  
+📄 More info: [CV](https://solomonlee.dev)
+
+---
+
+### 🧰 Tech Stack
+
+**Languages & Frontend**  
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,solidjs,unocss,styledcomponents,css,jquery" />
+
+**Backend & Architecture**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,bun,fastify,php,laravel" />  
+Microservices • Event-Driven • Clean Architecture • DDD • FSD
+
+**Database / ORM**  
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />  
+Prisma • Drizzle • Sequelize
+
+**Infra / DevOps**  
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,bitbucket,nginx" />  
+PM2 • WSL2 • DigitalOcean • Cloudflare • Minio • Apache
+
+**Testing / Tools**  
+Vitest • Jest • Supertest • Swagger • Postman • Figma • Slack • JIRA
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheStrategicDev&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheStrategicDev&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheStrategicDev" />
+</p>
+
+---
+
+### 🤝 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/your-link"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+  <a href="https://fb.com/your-link"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
+</p>
