@@ -10,7 +10,7 @@
 ---
 
 🚀 Passionate Full Stack Developer with over 8 years of experience  
-🔭 Currently working on microservices, event-driven architecture, and high-scale systems  
+🔭 Currently working on Strict DDD Clean architecture, microservices, event-driven architecture, and high-scale systems  
 📍 Based in Caloocan South, Philippines  
 🧠 INFJ - Creative, detail-oriented, and purpose-driven  
 📄 More info: [CV](https://solomonlee.dev)
