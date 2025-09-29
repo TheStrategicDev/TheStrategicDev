@@ -87,12 +87,11 @@
 
 ### 🤖 Automation
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/n8n.svg" width="50" alt="n8n logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/n8n.svg" width="50" alt="n8n logo" style="filter: invert(70%);"  />
 </p>
 
 ### 🛠️ Tools
 <p>
   <img src="https://skillicons.dev/icons?i=postman,figma" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/jira.svg" width="50" alt="Jira logo" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/figma.svg" width="50" alt="Figma logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/jira.svg" width="50" style="filter: invert(70%);" alt="Jira logo" />
 </p>
