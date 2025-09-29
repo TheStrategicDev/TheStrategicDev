@@ -58,7 +58,7 @@
 ### ⚙️ Backend
 <p>
   <img src="https://skillicons.dev/icons?i=ts,nodejs" />
-  <img src="./assets//icons/fastify.svg" width="50" alt="Fastify logo" />
+  <img src="assets//icons/fastify.svg" width="50" alt="Fastify logo" />
 </p>
 
 ### 🗄️ Database / ORM
