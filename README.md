@@ -13,7 +13,7 @@
 🔭 Focused on Clean Architecture, Domain-Driven Design (DDD), and Feature-Sliced Design (FSD) for scalable, maintainable systems
 
 📍 Based in Caloocan South, Philippines  
-🧠 INFJ - Creative, detail-oriented, and purpose-driven  
+🧠 INTJ – Strategic, analytical, and systems-oriented  
 📄 More info: [CV](https://solomonlee.dev)
 
 ---
